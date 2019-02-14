@@ -6,3 +6,4 @@ elif a<0:
 else:
     print("zero");
 
+//pos,neg
