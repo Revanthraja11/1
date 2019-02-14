@@ -1,9 +1,5 @@
-a=int(input(""))
-if(a>0):
-    print("Postive");
-elif(a<0):
-    print("Negative");
+a=int(input())
+if(1<=a<=100000):
+  print("Positive")
 else:
-    print("Zero");
-
-//pos,neg
+  print("Negative")
